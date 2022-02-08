@@ -1,7 +1,25 @@
 #EXTM3U
-#EXTINF:-1,Kantipur
+#EXTINF:-1,Kantipur HD
 https://ktvhdsg.ekantipur.com:8443/ktv_desktop_02347834/hd/kantipurtv/hd_1080/chunks.m3u8
-#EXTINF:-1,B
-https://182.50.64.63
-#EXTINF:-1,B
-https://182.50.64.95
+#EXTINF:-1,AajTak HD
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_1/chunklist.m3u8
+#EXTINF:-1,ABP News HD
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_1564.m3u8
+#EXTINF:-1,CNBCTV18 HD
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1,NDTV 24×7 SD
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_480p@3.m3u8
+#EXTINF:-1,7X MUSIC HD
+http://183.87.51.10/hls/7xMusic.m3u8
+#EXTINF:-1,ABC WSB TV HD
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wsbtvnow-hls-v3/live_med20220208T135536_12170.ts
+#EXTINF:-1,AFV
+https://dai.google.com/linear/hls/pb/event/18_lZXPySFa5_GRVEbOX_A/stream/7e914926-3f90-49b8-b93f-3d7bfb7ae2e5:SIN/variant/dc4ac44f50edb66c84b62b9fcc9f4ce2/bandwidth/3193687.m3u8
+#EXTINF:-1,AMC+
+https://amc-absolutereality-1.vizio.wurl.com/manifest/4300.m3u8
+#EXTINF:-1,Fox News HD
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1,24 HOUR FREE MOVIES
+https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/4300.m3u8
+#EXTINF:-1,beIN Sports 1 HD
+https://cdn.plt.one/cdn/premium62/chunks.m3u8
