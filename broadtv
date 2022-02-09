@@ -9,6 +9,8 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_1564.m3u8
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:-1,NDTV 24×7 SD
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_480p@3.m3u8
+#EXTINF:-1,INDIA TV NEWS
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
 #EXTINF:-1,7X MUSIC HD
 http://183.87.51.10/hls/7xMusic.m3u8
 #EXTINF:-1,ABC WSB TV HD
